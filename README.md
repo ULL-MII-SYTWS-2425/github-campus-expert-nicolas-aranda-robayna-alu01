@@ -1,6 +1,7 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16111659)
-## GitHub Campus Expert
-Nicolás Aranda - alu0101205724
+# Práctica GitHub Campus Expert
+Alumno: **[Nicolás Aranda](https://campusdoctoradoyposgrado2425.ull.es/user/view.php?id=24251103382)** - [nicarandar](https://github.com/nicarandar)
+---
 Esta es una práctica introductoria donde se han realizado las siguientes tareas
 
 ### 1. Aceptar la asignación de la práctica
@@ -9,9 +10,6 @@ Se acepta la asignación de la práctica
 
 
 ### 2. Creación del project board automated kanban
-Una vez se crea el repositorio automáticamente
-![img2]
-
 Se crea un project board con la configuración indicada y notas para cada una de las tareas asociadas a la práctica. Además, se indica en que estado está cada tarea.
 ![image](https://github.com/user-attachments/assets/33a0166b-c5cc-45ad-9ea1-ebe091cf0703)
 
@@ -26,6 +24,7 @@ Para corregir la solicitud rechazada:
 - Se añadieron datos de pago (sin incluir tarjetas de crédito).
 - Se autorizó la autenticación en dos pasos.
 - Se cambió la imagen enviada por una de mayor calidad.
+
 ![image](https://github.com/user-attachments/assets/f9702557-bf82-4eb4-bd2f-9b8781e5b097)
 
 
